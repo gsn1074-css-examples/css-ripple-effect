@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "html.autoClosingTags": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.parameterHints": false,
+    "editor.minimap.enabled": false,
+    "update.channel": "none",
+    "editor.autoClosingBrackets": false,
+    "editor.autoIndent": false
+}
